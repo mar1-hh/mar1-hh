@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **marouanesaadaoui3@gmail.com**
 
-- ⚡ Fun fact: I started my programming journey with C and ended up falling in love with full-stack development.**
+- ⚡ Fun fact: I started my programming journey with C and ended up falling in love with full-stack development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
