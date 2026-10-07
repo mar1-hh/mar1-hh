@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marouane SAADAOUI</h1>
-<h3 align="center">A backend-focused software engineer from Morocco</h3>
+<h3 align="center">Full-Stack Software Engineer from Morocco</h3>
 
 - 🌱 I’m currently learning **React, Full Stack Open, modern JavaScript and TypeScript**
 
